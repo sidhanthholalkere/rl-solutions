@@ -1,3 +1,5 @@
+# THIS SOLUTION IS FOR AN OLDER VERSION OF THE BOOK
+
 import numpy as np
 import matplotlib.pyplot as plt
 
