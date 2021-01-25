@@ -13,4 +13,4 @@
     - If we do learn from exploratory moves, the distribution of state values will go towards the policy that does the exploring. If we do not learn from exploratory moves, the distribution of state values will approach their true values. If we continue to make exploratory moves it will be better to learn from the non-exploratory moves so we approach the true distribution of state values, resulting in winning more.
 
 5. *Other Improvements* Can you think of other ways to improve the reinforcement learning player? Can you think of any better way to solve the tic-tac-toe problem as posed?
-    - Since tic-tac-toe is a solved game it would probably be easier to just brute-force all possible moves and choose the moves that lead to winning more often.
+    - Since tic-tac-toe is a solved game it would probably be easier to just brute-force all possible move trajectories and choose those that lead to winning more often.
